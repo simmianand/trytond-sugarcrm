@@ -13,7 +13,7 @@ Configure SugarCRM account
 | ``Menu: Party > Configuration > SugarCRM Configuration``
 
 .. image:: images/configure.png
-   :width: 900
+   :width: 100%
 
 .. tip::
 
@@ -27,13 +27,15 @@ Cron for importing Opportunities from SugarCRM
 
 | ``Menu: Administration > Scheduler > Scheduled Actions``
 
+
 .. image:: images/scheduler-list.png
-   :width: 900
+   :width: 100%
 
 Open the selected cron with name `Import SugarCRM Opportunities`.
 
+
 .. image:: images/scheduler.png
-   :width: 900
+   :width: 100%
 
 
 The details are described below:

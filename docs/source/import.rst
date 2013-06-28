@@ -20,24 +20,24 @@ imports is a day, but can be modified to your requirements.
 **Opportunities in SugarCRM**
 
 .. image:: images/converted-opportunities.png
-   :width: 900
+   :width: 100%
 
 **Opportunities imported as Parties in Tryton**
 
 | ``Menu: Party > Parties``
 
 .. image:: images/imported-parties.png
-   :width: 900
+   :width: 100%
 
 **Opportunity View in SugarCRM**
 
 .. image:: images/opportunity.png
-   :width: 900
+   :width: 100%
 
 **Party in Tryton**
 
 .. image:: images/party.png
-   :width: 900
+   :width: 100%
 
 Understanding the import mappings
 ---------------------------------

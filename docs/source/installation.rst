@@ -6,6 +6,7 @@ a tryton instance.
 
 .. _install-module-source:
 
+
 Installation from source code
 -----------------------------
 
@@ -29,6 +30,7 @@ Installation from source code
 
         python setup.py install
 
+
 **Installing tryton dependency module**
 
 1. This module depends on another non standard tryton module
@@ -49,6 +51,7 @@ Installation from source code
    .. code-block:: sh
 
         python setup.py install
+
 
 **Installing tryton module**
 
@@ -80,24 +83,24 @@ Installation from source code
 7. This should show the modules list screen as below:
 
    .. image:: images/modules.png
-      :width: 900
+      :width: 100%
 
 8. Install the module as shown below:
 
    | ``Step 1``
 
     .. image:: images/install.png
-       :width: 900
+       :width: 100%
 
    | ``Step 2``
 
     .. image:: images/perform.png
-       :width: 900
+       :width: 100%
 
    | ``Step 3``
 
     .. image:: images/popup.png
-       :width: 900
+       :width: 100%
 
 
 .. _install-module-pypi:
